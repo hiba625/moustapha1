@@ -1,0 +1,13 @@
+PS > Get-ChildItem Env:
+
+Name                           Value
+----                           -----
+ALLUSERSPROFILE                C:\ProgramData
+APPDATA                        C:\Users\Prince\AppData\Roaming
+COMPUTERNAME                   DESKTOP
+ComSpec                        C:\Windows\system32\cmd.exe
+HOMEDRIVE                      C:
+NUMBER_OF_PROCESSORS           24
+OS                             Windows_NT
+PATH                           C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program ...
+...
